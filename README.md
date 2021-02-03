@@ -34,7 +34,12 @@ This project was made for me to understand a little about clean architecture wit
 <li>SOLID</li>
 <li>Package-By-Feature</li>
 
+<h2>🤖 Usage </h2>
 
+```
+- git clone git@github.com:DaviZMelo/solid-api.git
+- npm install | yarn
+```
 
 <h2>🤝 Contribution </h2>
 
