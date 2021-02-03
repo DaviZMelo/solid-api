@@ -18,7 +18,7 @@ This project was made for me to understand a little about clean architecture wit
 
 <h2>⚙️ Features </h2>
 
-<li><h3 style="display: inline">User Creation</h3></li>
+<li><strong>User Creation</strong></li>
 <li>The user receives an email when creating an account.</li>
 
 <h2>🌳 Project organization</h2>
