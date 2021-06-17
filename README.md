@@ -20,6 +20,10 @@ This project was made for me to understand a little about clean architecture wit
 
 <li><strong>User Creation</strong></li>
 <li>The user receives an email when creating an account.</li>
+  
+<h2>🛣️ Routes </h2>
+
+<li>POST <strong>/users</strong> <br>Body: name: string | email: string | password: string</li>
 
 <h2>🌳 Project organization</h2>
 
