@@ -8,8 +8,12 @@ This project was made for me to understand a little about clean architecture wit
     <summary>Click to view screenshots</summary>
     <img src="https://i.imgur.com/u4B3Gm1.png">
 </details>
+    
+<h2> ❔ Why? </h2>
+  
+I created this project to understand more about clean code and best practices like SOLID.
 
-<h2>🌎 Used techs </h2>
+<h2>🌎 Techs </h2>
 
 <li>Typescript</li>
 <li>NodeJS</li>
