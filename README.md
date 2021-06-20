@@ -18,18 +18,15 @@ This project was made for me to understand a little about clean architecture wit
 
 <h2>⚙️ Features </h2>
 
-<li><strong>User Creation</strong></li>
-<li>The user receives an email when creating an account.</li>
-  
-<h2>🛣️ Routes </h2>
-
-<li>POST <strong>/users</strong> <br>Body: name: string | email: string | password: string</li>
+| Feature                          | Route       | Body        | Note |
+| -------------------------------- | ----------  | ----------- | ----------- |   
+| <strong>User Creation</strong>   | POST /users | { name: string, email: string, password: string } | Send an email to the user after user creation
 
 <h2>🌳 Project organization</h2>
 
 ![Árvore do projeto](https://i.imgur.com/mcEoevt.png)
 
-<h2>🔎 Observations </h2>
+<h2>🔎 Note </h2>
 
 <li>The postgres repository is totally fake, everything is stored in local arrays.</li>
 
