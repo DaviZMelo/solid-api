@@ -26,9 +26,6 @@ I created this project to understand more about clean code and best practices li
 | -------------------------------- | ----------  | ----------- | ----------- |   
 | <strong>User Creation</strong>   | POST /users | { name: string, email: string, password: string } | Send an email to the user after user creation
 
-<h2>🌳 Project organization</h2>
-
-![Árvore do projeto](https://i.imgur.com/mcEoevt.png)
 
 <h2>🔎 Note </h2>
 
